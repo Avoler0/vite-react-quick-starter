@@ -1,7 +1,7 @@
 # vite-react-quick-starter
 
-## vite 리액트 초기 설정 저장소
-
+# vite 리액트 초기 설정 저장소
+## 인스톨 라이브러리
 ### react-router-dom
 ### styled-components
 
